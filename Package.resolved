@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ios-eventsource",
+        "repositoryURL": "git@github.com:ecobee/ios-eventsource.git",
+        "state": {
+          "branch": "mn/SPMTest",
+          "revision": "655164f5e0d55a743eff47a28a179b02c174b5c3",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

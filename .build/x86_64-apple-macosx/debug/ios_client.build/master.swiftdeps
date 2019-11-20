@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "a5824ac482c79faacf823ec196785a20"
+build_time: [1574290258, 688235000]
+inputs:
+  "/Users/miwand.n/src/ios-client/Sources/ios-client/ios_client.swift": [1574287870, 888116905]

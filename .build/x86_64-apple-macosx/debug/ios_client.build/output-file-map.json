@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/miwand.n/src/ios-client/.build/x86_64-apple-macosx/debug/ios_client.build/master.swiftdeps"
+  },
+  "/Users/miwand.n/src/ios-client/Sources/ios-client/ios_client.swift": {
+    "dependencies": "/Users/miwand.n/src/ios-client/.build/x86_64-apple-macosx/debug/ios_client.build/ios_client.d",
+    "object": "/Users/miwand.n/src/ios-client/.build/x86_64-apple-macosx/debug/ios_client.build/ios_client.swift.o",
+    "swiftmodule": "/Users/miwand.n/src/ios-client/.build/x86_64-apple-macosx/debug/ios_client.build/ios_client~partial.swiftmodule",
+    "swift-dependencies": "/Users/miwand.n/src/ios-client/.build/x86_64-apple-macosx/debug/ios_client.build/ios_client.swiftdeps"
+  }
+}
